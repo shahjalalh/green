@@ -1,3 +1,9 @@
+# IntelliJ project files
+.idea
+*.iml
+
+gen
+
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
