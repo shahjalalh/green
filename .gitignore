@@ -371,3 +371,5 @@ green/media/
 
 .sass-cache/
 *.css.map
+
+config/settings/local.py
